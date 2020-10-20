@@ -266,3 +266,7 @@
  - Place: Cupertino,CA,USA
  - Bio: Student
  - Github: [jamestacos](https://github.com/jamestacos)
+#### Name: [Yedukrishna K R](https://github.com/itsyk24)
+- Place: Kochi,Kerala,India
+- Bio: Student
+- GitHub: [itsyk24](https://github.com/itsyk24)
